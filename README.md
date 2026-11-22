@@ -1,4 +1,4 @@
-# cleanSmut
+# nsfw-image-scanner
 
 ### Abstract
 
